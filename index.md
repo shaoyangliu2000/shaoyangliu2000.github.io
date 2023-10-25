@@ -4,9 +4,9 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+![liuyang](F:\Github\program\scholar website\shaoyangliu2000.github.io\liuyang.jpg)
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Yang Liu (Sun, 刘阳)**.
 
 I am a senior student majoring in **EECS** at Fuzhou University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). I also spent a lovely summer interning with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University.
 
@@ -18,8 +18,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
+- **Sep 2019 - June 2023:** Yanshan University (BEng)
+- **Sep 2023 - June 2024:** Jilin University (BSc)
 - **June 2022 - Nov 2022:** Cambridge University (Exchange)
 - Expect to apply for a one-year Mphil program and graduate in July 2025. Looking for PhD position after that.
 
