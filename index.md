@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-![liuyang](F:\Github\program\scholar website\shaoyangliu2000.github.io\liuyang.jpg)
+<img src="liuyang.jpg" class="floatpic" width="360" height="480">
 
 Here is **Yang Liu (Sun, 刘阳)**.
 
