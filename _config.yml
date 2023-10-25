@@ -7,7 +7,7 @@ url: https://liuyang2000.com
 # Owner/author information
 owner:
   name: Yang Liu
-  avatar: hanlin.jpg
+  avatar: liuyang.jpg
  # bio:
   email: liuyangbio@qq.com
   cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
@@ -17,8 +17,8 @@ owner:
   #linkedin: yangliu
   #scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   bilibili: 594030035
- sciprofiles: https://sciprofiles.com/profile/3147139
- researchgate: https://www.researchgate.net/profile/Yang-Liu-1429
+  sciprofiles: https://sciprofiles.com/profile/3147139
+  researchgate: https://www.researchgate.net/profile/Yang-Liu-1429
   zhihu: https://www.zhihu.com/people/chlire
   # facebook: caihanlin2002
   # instagram: lancecai2002
@@ -39,16 +39,9 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Fundings
-    url: /fundings/
   - title: Hobbies
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
