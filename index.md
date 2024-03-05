@@ -14,8 +14,6 @@ Here is **Yin Gao (高印)**.
 
 工作地点：	生命科学楼 387室
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
-
 <br>
 
 ## Academic Background
