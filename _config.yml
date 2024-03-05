@@ -1,4 +1,4 @@
-title: Yang Liu
+title: Yin Gao
 # tagline: Here is personal website of Yang Liu. Powered by Jekyll, based on the Minimal Mistakes theme.
 description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
@@ -6,24 +6,19 @@ url: https://liuyang2000.com
 
 # Owner/author information
 owner:
-  name: Yang Liu
-  avatar: liuyang.jpg
+  name: Yin Gao
+  avatar: gaoyin.jpg
  # bio:
-  email: liuyangbio@qq.com
-  cv: https://liuyang2000.com/file/刘阳中文简历.pdf
+  email: yingao@jlu.edu.cn
+  #cv: https://liuyang2000.com/file/刘阳中文简历.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: lancecai2002
-  github: ShaoyangLiu2000
+  #github: ShaoyangLiu2000
   #linkedin: yangliu
   #scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  bilibili: 321945211
-  sciprofiles: https://sciprofiles.com/profile/3147139
-  researchgate: https://www.researchgate.net/profile/Yang-Liu-1429
-  zhihu: https://www.zhihu.com/people/shao-yang-sun
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
-  # lastfm:
-  # tumblr:
+  #bilibili: 321945211
+  sciprofiles: https://sciprofiles.com/profile/767097
+  wangyiyun: https://music.163.com/#/artist?id=55764236
   # For Google Authorship https://plus.google.com/authorship
   # google_plus:
 
